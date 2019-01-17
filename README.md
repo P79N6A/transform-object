@@ -96,4 +96,3 @@ If you are in a CommonJS environment (eg [Node](https://nodejs.org)), then **you
 ```js
 const TransformObject = require('transform-object').default;
 ```
-
